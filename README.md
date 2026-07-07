@@ -43,3 +43,6 @@ jupyter notebook smartwatch-price-analysis.ipynb
 ## Data
 
 `Smart watch prices.csv` — [Smart watch prices](https://www.kaggle.com/datasets/rkiattisak/smart-watch-prices) on Kaggle. Prices are listing prices without dates or regions, which limits how far any model on this data can go.
+
+---
+*Developed in collaboration with Claude (Anthropic).*
